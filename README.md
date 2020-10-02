@@ -1,4 +1,4 @@
-### Hi there 👋, Hi ! I am Syed Wajeeh Ul Hassan
+### Hi there 👋,  I am Syed Wajeeh Ul Hassan
 #### CEO | CTO | Certified Cyber Security Specialist | Digital Marketing Professional | Full Stack Developer
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
