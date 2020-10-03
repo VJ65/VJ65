@@ -2,7 +2,7 @@
 #### CEO | CTO | Certified Cyber Security Specialist | Digital Marketing Professional | Full Stack Developer
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
-Skills: Android / MultiCloud / NETWORKING / JAVA / CSS / PYTHON / SEO / SMM /AdSense VA
+Skills: Android / MultiCloud / NETWORKING / JAVA / CSS / PYTHON / SEO / SMM /AdSense VA/ WordPress Development 
 
 - 🔭 I’m currently working on Aviatrix Networking 101 
 - 🌱 I’m currently learning Cloud Computing & MultiCloud Network 
