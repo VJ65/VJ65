@@ -1,17 +1,17 @@
 ### Hi there 👋,  I am Syed Wajeeh Ul Hassan
-#### CEO | CTO | Certified Cyber Security Specialist | Digital Marketing Professional | Full Stack Developer
+#### Founder Colabrat | CTO - FutureSol | Certified Cyber Security Specialist | Performance Marketing Professional | Full Stack Developer
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
-Skills: Android / MultiCloud / NETWORKING / JAVA / CSS / PYTHON / SEO / SMM /AdSense VA/ WordPress Development 
+Skills: SEO / SEM - Meta ads & PPC / DEVELOPMENT / JAVA / CSS / PYTHON / Certified AdSense VA/High-End Conversion and Leads Audit
 
-- 🔭 I’m currently working on Aviatrix Networking 101 
-- 🌱 I’m currently learning Cloud Computing & MultiCloud Network 
-- 👯 I’m looking to collaborate on Social Media Marketing  
-- 🤔 I’m looking for help with AdSense VA 
-- 💬 Ask me about Anything You want to  
+- 🔭 I’m currently working on a Scratch to Sales solution for B2B & B2C Clients Globally
+- 🌱 I’m currently learning Angular for Front-end & Python for Backend
+- 👯 I’m looking to collaborate on Media Buying & B2B Collaborations
+- 🤔 I’m looking for help in Understanding New Techniques & Trends
+- 💬 Ask me about Anything You want to, related to your Bussiness. 
 - 📫 How to reach me: wajeehulhassan82@gmail.com 
 - 😄 Pronouns: Shaka 
-- ⚡ Fun fact: I am a Gamer to  
+- ⚡ Fun fact: I am a Gamer, and a Pro One
 
 <h2> Reach Me Out At 👀 <h2>
 
