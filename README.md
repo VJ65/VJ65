@@ -1,8 +1,8 @@
 ### Hi there 👋,  I am Syed Wajeeh Ul Hassan
-#### Founder [colabrat.com](https://colabrat.com/) | CTO - [FutureSol](https://futuresol.com.au/) | Certified Cyber Security Specialist | Performance Marketing Professional | Full Stack Developer
+#### Founder [Innovatrex](https://innovatrex.com/) | CTO - [FutureSol](https://futuresol.com.au/) | Certified Cyber Security Specialist | Performance Marketer | Full Stack Developer
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it
 
-Skills: SEO / SEM - Meta ads & PPC / DEVELOPMENT / JAVA / CSS / PYTHON / Certified AdSense VA/High-End Conversion and Leads Audit
+Skills: SEO / SEM - Meta ads & PPC / DEVELOPMENT / JAVA / CSS / PYTHON / Certified AdSense VA/High-End Conversion and Leads Audit / Ai Agents / RAG Systems / GHL/ Automations
 
 - 🔭 I’m currently working on a Scratch to Sales solution for B2B & B2C Clients Globally
 - 🌱 I’m currently learning Angular for Front-end & Python for Backend
